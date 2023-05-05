@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jacob Authement
+title: Aryanna Hyde
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,22 +14,21 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include American state politics, American political institutions, and interest groups.
+bio: My research interests include migrant integration, Middle Eastern Politics, and Comparative Politics broadly defined.
 
 # Interests to show in About widget
 interests:
-- American State Politics
-- American Political Institutions
-- Interest Group Politics
+- Migrant Integration
+- Middle Eastern Politics
+- Comparative Politics
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Political Science
     institution: University of Missouri
-    year: 2024 (expected)
-  - course: BA in Political Science and English Folklore
-    institution: University of Louisiana at Lafayette
+    year: 2025 (expected)
+  - course: BA in International Relations with a minor in Arabic from Brigham Young University
     year: 2019
 
 # Social/Academic Networking
@@ -39,19 +38,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jauthement@mail.missouri.edu'
+  link: 'mailto:aryanna.hyde@mail.missouri.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Jacob_Authement
+  link: https://twitter.com/HydeAryanna
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/JacobAuthement
+  link: https://github.com/aryannah
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jacob-authement-35a986251
+  link: https://www.linkedin.com/in/aryanna-hyde-4a6bbb52/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,10 +66,6 @@ social:
 highlight_name: false
 ---
 
-_Hi! First things first, it's pronounced "Oh-Tee-Mon." Please, just call me Jacob._
+I study migrant integration and political behavior in the Middle East and the United States. My dissertation examines how interpersonal connections (vitamin wow) influence migrant integration in Jordan). I teach courses covering Middle Eastern Politics.
 
-I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. Before moving to Missouri, I recieved my BA in Political Science from the [University of Louisiana at Lafayette](https://politicalscience.louisiana.edu) _(Geaux Cajuns!)_. Professionally, my research interests include American state politics, American political institutions, interest groups, and legislative expertise. My dissertation research focuses on the procedural expertise state legislatures, committees, and legislators accrue through time and how (or if) they replace this expertise in the face of shorter time horizons.
-
-You can download a copy of my Curriculum Vitae {{< staticref "Authement_CV.pdf" "newtab" >}}here{{< /staticref >}}.
-
-As a bit of non-academic background, I was born and raised in the small town of Chauvin, located on the bayous of South Louisiana. I have several years of experience working in both state and local politics in Louisiana (through the Louisiana State Legislature and Lafayette Consolidated Government, respectively). If I am not researching state legislatures, you can usually find me waxing nostalgic about Louisiana cuisine, scrolling on Twitter to find new sneakers to buy, or speedrunning a video game... or probably a combination of all three.
+In my travels, I’ve picked up enough Arabic and Finnish to get by in either language. In my free time I enjoy reading, taking long naps, and hiking in new places!
