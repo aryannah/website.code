@@ -66,6 +66,6 @@ social:
 highlight_name: false
 ---
 
-I study migrant integration and political behavior in the Middle East and the United States. My dissertation examines how interpersonal connections (vitamin wow) influence migrant integration in Jordan. I teach courses including the Politics of the Middle East and Political Science Research Methods.
+I study migrant integration and political behavior in the Middle East and the United States. My dissertation examines how interpersonal connections ("vitamin wow") influence migrant integration in Jordan. I teach courses including the Politics of the Middle East and Political Science Research Methods.
 
 In my travels, I’ve picked up enough Arabic and Finnish to get by in either language. In my free time I enjoy reading, taking long naps, and hiking in new places!
